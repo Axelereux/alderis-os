@@ -1,6 +1,6 @@
 # Code of Conduct
 
-VECTRA aims to be a welcoming, respectful, and constructive project for people of all experience levels and backgrounds.
+Aldéris aims to be a welcoming, respectful, and constructive project for people of all experience levels and backgrounds.
 
 ## Expected behaviour
 
@@ -18,4 +18,4 @@ Harassment, discrimination, threats, personal attacks, doxxing, and sustained di
 
 For now, report concerns privately to the repository owner using the contact method listed on the GitHub profile. Do not include sensitive personal information in public issues. A formal independent moderation process may be established as the project grows.
 
-This initial code of conduct is a project policy and is not a claim that VECTRA is currently governed by an independent foundation.
+This initial code of conduct is a project policy and is not a claim that Aldéris is currently governed by an independent foundation.
