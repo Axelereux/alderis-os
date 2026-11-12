@@ -13,4 +13,4 @@ Research areas:
 - Logging that avoids unnecessary sensitive data
 - Vulnerability reporting and coordinated disclosure
 
-VECTRA has no security certification and makes no production security claims.
+Aldéris has no security certification and makes no production security claims.
