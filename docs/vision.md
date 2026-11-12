@@ -1,12 +1,12 @@
-# VECTRA — Vision
+# Aldéris — Vision
 
 ## Purpose
 
-VECTRA explores the development of an open-source operating system for desktop and laptop computers, built around an independently developed kernel and a modular architecture.
+Aldéris explores the development of an open-source operating system for desktop and laptop computers, built around an independently developed kernel and a modular architecture.
 
 ## Why
 
-Individuals and institutions should have meaningful choice and control over the software foundations they rely on. VECTRA's long-term research areas include technological autonomy, privacy, security, accessibility, maintainability, and interoperability.
+Individuals and institutions should have meaningful choice and control over the software foundations they rely on. Aldéris's long-term research areas include technological autonomy, privacy, security, accessibility, maintainability, and interoperability.
 
 ## Who it may serve
 
