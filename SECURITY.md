@@ -1,6 +1,6 @@
 # Security Policy
 
-VECTRA is currently at the concept and architecture-research stage. There is no production operating system or supported release.
+Aldéris is currently at the concept and architecture-research stage. There is no production operating system or supported release.
 
 ## Reporting a vulnerability
 
