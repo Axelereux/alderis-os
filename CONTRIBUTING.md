@@ -1,6 +1,6 @@
-# Contributing to VECTRA
+# Contributing to Aldéris
 
-Thank you for your interest in VECTRA. The project is at an early concept and architecture-research stage, so thoughtful feedback is valuable.
+Thank you for your interest in Aldéris. The project is at an early concept and architecture-research stage, so thoughtful feedback is valuable.
 
 ## Before contributing
 
