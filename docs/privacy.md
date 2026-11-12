@@ -1,6 +1,6 @@
 # Privacy principles
 
-VECTRA intends to make privacy understandable and configurable.
+Aldéris intends to make privacy understandable and configurable.
 
 Research requirements:
 - Explain what data each service processes and why.
