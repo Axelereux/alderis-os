@@ -1,6 +1,6 @@
 # Kernel design — research questions
 
-VECTRA intends to investigate an independently developed kernel. No kernel implementation currently exists.
+Aldéris intends to investigate an independently developed kernel. No kernel implementation currently exists.
 
 ## Initial research topics
 
