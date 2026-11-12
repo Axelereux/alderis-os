@@ -1,6 +1,6 @@
 # Licensing decision — pending
 
-VECTRA intends to publish source code under recognized open-source licenses. The exact license will be selected per component before code is published.
+Aldéris intends to publish source code under recognized open-source licenses. The exact license will be selected per component before code is published.
 
 Potential considerations:
 - Kernel and tightly integrated core components may benefit from a copyleft license.
