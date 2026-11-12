@@ -1,6 +1,6 @@
 # Governance — intended direction
 
-VECTRA is currently an independent early-stage project maintained by its initiator. No foundation, board, or formal institutional governance structure currently exists.
+Aldéris is currently an independent early-stage project maintained by its initiator. No foundation, board, or formal institutional governance structure currently exists.
 
 ## Long-term intention
 
